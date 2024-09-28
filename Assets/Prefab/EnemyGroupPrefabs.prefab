@@ -119,7 +119,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   atackRange: 50
-  atackRate: 1
+  atackRate: 0
   enemyBullet: {fileID: 4701825526411793107, guid: 0456d3a4bf9129d4a83e6fc09adfd343,
     type: 3}
   bulletOrigin: {fileID: 2813301742490968234, guid: 0456d3a4bf9129d4a83e6fc09adfd343,
